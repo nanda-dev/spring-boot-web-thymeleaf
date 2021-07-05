@@ -11,7 +11,7 @@
 	</parent>
 	<groupId>dev.cna</groupId>
 	<artifactId>spring-boot-web-thymeleaf-app</artifactId>
-	<version>0.0.2-SNAPSHOT</version>
+	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-boot-web-thymeleaf</name>
 	<description>Demo project for Spring Boot Web and Thymeleaf</description>
 	<properties>
